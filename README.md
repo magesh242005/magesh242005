@@ -7,4 +7,4 @@
 • GitHub Stats cards
 • Tools section
 • Contribution graph
-• Visitor badge
+•   Visitor badge
