@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**magesh242005/magesh242005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Intro Section (Hi, I'm Your Name)
+• Typing Animation Banner
+• About Me Section
+• Portfolio + LinkedIn badges
+• Tech Stack icons
+• Current Projects section
+• GitHub Stats cards
+• Tools section
+• Contribution graph
+• Visitor badge
