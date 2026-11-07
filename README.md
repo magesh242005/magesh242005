@@ -146,7 +146,7 @@ class Magesh:
 ## 📱 Scan to View My Portfolio
 
 <div align="center">
-  <img src="./assets/portfolio-qr.png" alt="Scan to view my 3D portfolio" width="220"/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&ecc=H&margin=12&color=0f0c29&bgcolor=ffffff&data=https%3A%2F%2Fmagesh-3d-portfolio.netlify.app%2F" alt="Scan to view my 3D portfolio" width="220"/>
 </div>
 
 ---
