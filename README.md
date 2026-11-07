@@ -24,7 +24,6 @@
 ```python
 class Magesh:
     role      = "Full Stack Developer (Final Year CSE Student)"
-    college   = "IFET College of Engineering, 2023 - 2027"
     location  = "Tamil Nadu, India 🇮🇳"
     languages = ["Python", "JavaScript", "TypeScript", "Java", "Solidity"]
     currently = "Building AI + Blockchain certificate verification"
