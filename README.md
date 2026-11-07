@@ -1,63 +1,236 @@
-<!-- Save this as README.md in a PUBLIC repo named exactly: magesh242005 --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Magesh%20R&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%203D%20Web%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="Magesh R banner" width="100%"/> <a href="https://github.com/magesh242005"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+full+stack+web+apps+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Three.js;Blockchain+%26+Generative+AI+projects+%F0%9F%A7%A0;Turning+ideas+into+interactive+experiences+%E2%9C%A8" alt="Typing animation" /> </a> <br/>
-<a href="https://magesh-3d-portfolio.netlify.app/"><img src="https://img.shields.io/badge/🌐_3D_Portfolio-Visit-c084fc?style=for-the-badge" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/magesh-r-2005r24"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:mmagesh7940@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://komarev.com/ghpvc/?username=magesh242005&label=Profile+Views&color=38bdf8&style=for-the-badge" alt="Profile views"/>
+<!-- Save this as README.md in a PUBLIC repo named exactly: magesh242005 -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Magesh%20R&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%203D%20Web%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="Magesh R banner" width="100%"/>
+
+<a href="https://github.com/magesh242005">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+full+stack+web+apps+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Three.js;Blockchain+%26+Generative+AI+projects+%F0%9F%A7%A0;Turning+ideas+into+interactive+experiences+%E2%9C%A8" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://magesh-3d-portfolio.netlify.app/"><img src="https://img.shields.io/badge/🌐_3D_Portfolio-Visit-c084fc?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/magesh-r-2005r24"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mmagesh7940@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=magesh242005&label=Profile+Views&color=38bdf8&style=for-the-badge" alt="Profile views"/>
 
 </div>
-👋 About Me
 
+---
+
+## 👋 About Me
+
+```python
 class Magesh:
     role      = "Full Stack Developer (Final Year CSE Student)"
+    college   = "IFET College of Engineering, 2023 - 2027"
     location  = "Tamil Nadu, India 🇮🇳"
     languages = ["Python", "JavaScript", "TypeScript", "Java", "Solidity"]
     currently = "Building AI + Blockchain certificate verification"
     interests = ["Generative AI", "Blockchain", "DevOps", "3D Web (Three.js)"]
     member_of = ["ISTE", "CSI"]
     open_to   = "Internships, entry-level roles & collaborations 🤝"
-🎓 Final-year B.E. Computer Science student who loves shipping real, working products
-💼 Former Web Development Intern at Ormatrix Solution (React, Node.js, Express, MongoDB)
-🌌 I build immersive 3D portfolios with React Three Fiber, GSAP and Framer Motion
-🔐 I enjoy blockchain + AI problems, from on-chain ticketing to forgery detection
-☁️ Learning Docker, Jenkins and Kubernetes to take projects from code to deployment
-🚀 Featured Projects
+```
 
-<table> <tr> <td width="50%" valign="top"> <h3>🏨 The Grand Solstice</h3> <b>Luxury resort booking platform</b><br/><br/> Multi-step reservation engine with interactive room selection, automated nightly pricing, secure online payments and a Supabase (PostgreSQL) backend with Row-Level Security.<br/><br/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/><br/> <a href="https://magesh242005.github.io/The_Grand_Solstice_new/">🔴 Live Demo</a> · <a href="https://github.com/magesh242005/The_Grand_Solstice_new">📂 Source</a> </td> <td width="50%" valign="top"> <h3>👗 DRAPE</h3> <b>Fashion e-commerce SPA</b><br/><br/> Category filtering across Men, Women, Kids and Accessories, cart and wishlist engine, coupon validation, Razorpay checkout (UPI, cards, net banking) and guest checkout backed by Supabase.<br/><br/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/><br/> <a href="https://magesh242005.github.io/E-commerce/">🔴 Live Demo</a> · <a href="https://github.com/magesh242005/E-commerce">📂 Source</a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🎟️ EventSphere</h3> <b>Blockchain event booking and ticket verification</b><br/><br/> Tiered seating with real-time seat locking, Ethereum smart-contract ticket minting, dual hashing (Keccak-256 + SHA-256) and live camera QR verification at the gate to stop scalping and counterfeits.<br/><br/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/><br/> <a href="https://blockchain-ticket-bookind.netlify.app/">🔴 Live Demo</a> · <a href="https://github.com/magesh242005/ticket-booking-blockchain-website">📂 Source</a> </td> <td width="50%" valign="top"> <h3>🧬 Synthetic Data Generation with LLMs</h3> <b>Privacy-preserving data platform</b><br/><br/> Generates high-fidelity synthetic tabular data with LLMs (GPT-4o, LLaMA-3) and Multivariate Copulas, with differential privacy, TSTR benchmarking, SHAP explainability and an interactive Streamlit dashboard.<br/><br/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-017CEE?style=flat-square"/><br/><br/> <a href="https://llm-synthetic-data-project.streamlit.app/">🔴 Live Demo</a> · <a href="https://github.com/magesh242005/LLM-synthetic-data-project">📂 Source</a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🍺 Smart Alcohol Detection System</h3> <b>IoT drunk-driving prevention</b><br/><br/> Real-time alcohol level detection using an MQ-3 sensor and a microcontroller, with an alert mechanism that promotes vehicle safety and helps prevent drunk driving.<br/><br/> <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MQ--3_Sensor-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/Microcontroller-E34F26?style=flat-square"/><br/><br/> <img src="https://img.shields.io/badge/Hardware_Project-6366f1?style=flat-square"/> </td> <td width="50%" valign="top"> <h3>🆘 Guardian SOS</h3> <b>Emergency safety app for women</b><br/><br/> One tap on the SOS button instantly sends an emergency alert with live GPS location to saved emergency contacts, so help can respond quickly.<br/><br/> <img src="https://img.shields.io/badge/Live_GPS-34A853?style=flat-square&logo=googlemaps&logoColor=white"/> <img src="https://img.shields.io/badge/Emergency_Alerts-DC2626?style=flat-square"/> <img src="https://img.shields.io/badge/Safety_Tech-6366f1?style=flat-square"/><br/><br/> <img src="https://img.shields.io/badge/Safety_App-6366f1?style=flat-square"/> </td> </tr> <tr> <td colspan="2" valign="top"> <h3>🔐 AI &amp; Blockchain Certificate Verification</h3> <b>Final-year project · in progress</b><br/><br/> Detects forged academic certificates with AI and verifies their authenticity on the blockchain, giving employers and institutions a secure, tamper-resistant way to check credentials.<br/><br/> <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Forgery_Detection-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Status-In_Progress-eab308?style=flat-square"/> </td> </tr> <tr> <td colspan="2" valign="top"> <h3>🌌 3D Interactive Portfolio</h3> <b>The site that ties it all together</b><br/><br/> A WebGL-powered portfolio with an interactive 3D hero, a full-screen particle field, a rotating 3D skill sphere, a physics-style hanging ID card, scroll-driven timeline and a certificate showcase.<br/><br/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/><br/><br/> <a href="https://magesh-3d-portfolio.netlify.app/">🔴 Live Demo</a> · <a href="https://github.com/magesh242005/Portfolio">📂 Source</a> </td> </tr> </table>
-📱 Scan to View My Portfolio
+- 🎓 Final-year **B.E. Computer Science** student who loves shipping real, working products
+- 💼 Former **Web Development Intern** at **Ormatrix Solution** (React, Node.js, Express, MongoDB)
+- 🌌 I build **immersive 3D portfolios** with React Three Fiber, GSAP and Framer Motion
+- 🔐 I enjoy **blockchain + AI** problems, from on-chain ticketing to forgery detection
+- ☁️ Learning **Docker, Jenkins and Kubernetes** to take projects from code to deployment
 
-<div align="center"> <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&ecc=H&margin=12&color=0f0c29&bgcolor=ffffff&data=https%3A%2F%2Fmagesh-3d-portfolio.netlify.app%2F" alt="Scan to view my 3D portfolio" width="220"/> </div>
-🛠️ Tech Stack
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 The Grand Solstice</h3>
+      <b>Luxury resort booking platform</b><br/><br/>
+      Multi-step reservation engine with interactive room selection, automated nightly pricing, secure online payments and a Supabase (PostgreSQL) backend with Row-Level Security.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/><br/>
+      <a href="https://magesh242005.github.io/The_Grand_Solstice_new/">🔴 Live Demo</a> ·
+      <a href="https://github.com/magesh242005/The_Grand_Solstice_new">📂 Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👗 DRAPE</h3>
+      <b>Fashion e-commerce SPA</b><br/><br/>
+      Category filtering across Men, Women, Kids and Accessories, cart and wishlist engine, coupon validation, Razorpay checkout (UPI, cards, net banking) and guest checkout backed by Supabase.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/><br/>
+      <a href="https://magesh242005.github.io/E-commerce/">🔴 Live Demo</a> ·
+      <a href="https://github.com/magesh242005/E-commerce">📂 Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎟️ EventSphere</h3>
+      <b>Blockchain event booking and ticket verification</b><br/><br/>
+      Tiered seating with real-time seat locking, Ethereum smart-contract ticket minting, dual hashing (Keccak-256 + SHA-256) and live camera QR verification at the gate to stop scalping and counterfeits.<br/><br/>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/><br/>
+      <a href="https://blockchain-ticket-bookind.netlify.app/">🔴 Live Demo</a> ·
+      <a href="https://github.com/magesh242005/ticket-booking-blockchain-website">📂 Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 Synthetic Data Generation with LLMs</h3>
+      <b>Privacy-preserving data platform</b><br/><br/>
+      Generates high-fidelity synthetic tabular data with LLMs (GPT-4o, LLaMA-3) and Multivariate Copulas, with differential privacy, TSTR benchmarking, SHAP explainability and an interactive Streamlit dashboard.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-017CEE?style=flat-square"/><br/><br/>
+      <a href="https://llm-synthetic-data-project.streamlit.app/">🔴 Live Demo</a> ·
+      <a href="https://github.com/magesh242005/LLM-synthetic-data-project">📂 Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍺 Smart Alcohol Detection System</h3>
+      <b>IoT drunk-driving prevention</b><br/><br/>
+      Real-time alcohol level detection using an MQ-3 sensor and a microcontroller, with an alert mechanism that promotes vehicle safety and helps prevent drunk driving.<br/><br/>
+      <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MQ--3_Sensor-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Microcontroller-E34F26?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Hardware_Project-6366f1?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🆘 Guardian SOS</h3>
+      <b>Emergency safety app for women</b><br/><br/>
+      One tap on the SOS button instantly sends an emergency alert with live GPS location to saved emergency contacts, so help can respond quickly.<br/><br/>
+      <img src="https://img.shields.io/badge/Live_GPS-34A853?style=flat-square&logo=googlemaps&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Emergency_Alerts-DC2626?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Safety_Tech-6366f1?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Safety_App-6366f1?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🔐 AI &amp; Blockchain Certificate Verification</h3>
+      <b>Final-year project · in progress</b><br/><br/>
+      Detects forged academic certificates with AI and verifies their authenticity on the blockchain, giving employers and institutions a secure, tamper-resistant way to check credentials.<br/><br/>
+      <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Forgery_Detection-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Status-In_Progress-eab308?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌌 3D Interactive Portfolio</h3>
+      <b>The site that ties it all together</b><br/><br/>
+      A WebGL-powered portfolio with an interactive 3D hero, a full-screen particle field, a rotating 3D skill sphere, a physics-style hanging ID card, scroll-driven timeline and a certificate showcase.<br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/><br/><br/>
+      <a href="https://magesh-3d-portfolio.netlify.app/">🔴 Live Demo</a> ·
+      <a href="https://github.com/magesh242005/Portfolio">📂 Source</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📱 Scan to View My Portfolio
 
 <div align="center">
-Frontend and 3D<br/> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,threejs,vite&perline=9" alt="Frontend"/>
-
-Backend and Databases<br/> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&perline=6" alt="Backend"/>
-
-Languages<br/> <img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity&perline=5" alt="Languages"/>
-
-AI and Data<br/> <img src="https://skillicons.dev/icons?i=python,pandas,numpy&perline=3" alt="AI and data"/> <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge" alt="Prompt Engineering"/> <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" alt="Generative AI"/>
-
-DevOps, Cloud and Tools<br/> <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,aws,linux,vscode&perline=8" alt="DevOps and tools"/>
-
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&ecc=H&margin=12&color=0f0c29&bgcolor=ffffff&data=https%3A%2F%2Fmagesh-3d-portfolio.netlify.app%2F" alt="Scan to view my 3D portfolio" width="220"/>
 </div>
-🏆 Certifications
 
-Credential	Issuer	Year
-Introduction to Networks (CCNA)	Cisco Networking Academy	2025
-OCI Generative AI Certified Professional	Oracle	2025
-Oracle Analytics Cloud Certified Professional	Oracle	2025
-Getting Started with Storage	AWS Educate	2025
-Career Edge – Young Professional	TCS iON	2025
-Generative AI and AI for Leaders	Udemy	2025
-Getting Started with Artificial Intelligence	IBM SkillsBuild	2026
-📊 GitHub Stats
+---
 
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=magesh242005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magesh242005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/> <img src="https://streak-stats.demolab.com?user=magesh242005&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=magesh242005&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%"/> </div>
-🤝 Let's Connect
-
-I'm looking for internships and entry-level roles in full stack development and AI. If you have an idea, an opportunity or just want to talk tech, I'd love to hear from you.
+## 🛠️ Tech Stack
 
 <div align="center">
-<a href="https://www.linkedin.com/in/magesh-r-2005r24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:mmagesh7940@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/magesh242005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+**Frontend and 3D**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,threejs,vite&perline=9" alt="Frontend"/>
+
+**Backend and Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&perline=6" alt="Backend"/>
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity&perline=5" alt="Languages"/>
+
+**AI and Data**<br/>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy&perline=3" alt="AI and data"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge" alt="Generative AI"/>
+
+**DevOps, Cloud and Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,aws,linux,vscode&perline=8" alt="DevOps and tools"/>
+
 </div>
 
-###
+---
+
+## 🏆 Certifications
+
+| Credential | Issuer | Year |
+|---|---|---|
+| Introduction to Networks (CCNA) | Cisco Networking Academy | 2025 |
+| OCI Generative AI Certified Professional | Oracle | 2025 |
+| Oracle Analytics Cloud Certified Professional | Oracle | 2025 |
+| Getting Started with Storage | AWS Educate | 2025 |
+| Career Edge – Young Professional | TCS iON | 2025 |
+| Generative AI and AI for Leaders | Udemy | 2025 |
+| Getting Started with Artificial Intelligence | IBM SkillsBuild | 2026 |
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magesh242005/magesh242005/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magesh242005/magesh242005/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/magesh242005/magesh242005/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/magesh242005?label=Followers&style=for-the-badge&color=24c6dc&labelColor=0d1117" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmagesh242005&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=c084fc&labelColor=0d1117" alt="Public repos"/>
+<img src="https://img.shields.io/github/stars/magesh242005/Portfolio?label=Portfolio%20Stars&style=for-the-badge&color=eab308&labelColor=0d1117" alt="Portfolio stars"/>
+<img src="https://img.shields.io/github/last-commit/magesh242005/Portfolio?label=Last%20Commit&style=for-the-badge&color=22c55e&labelColor=0d1117" alt="Last commit"/>
+
+<img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
+
+<img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+<img height="200" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm looking for **internships and entry-level roles** in full stack development and AI. If you have an idea, an opportunity or just want to talk tech, I'd love to hear from you.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/magesh-r-2005r24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mmagesh7940@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/magesh242005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" width="100%"/>
+
+</div>
