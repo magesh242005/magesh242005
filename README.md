@@ -194,12 +194,11 @@ class Magesh:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=magesh242005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magesh242005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+<img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=magesh242005&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=magesh242005&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%"/>
+<img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+<img height="200" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
 
 </div>
 
