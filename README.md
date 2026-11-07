@@ -194,6 +194,11 @@ class Magesh:
 
 <div align="center">
 
+<img src="https://img.shields.io/github/followers/magesh242005?label=Followers&style=for-the-badge&color=24c6dc&labelColor=0d1117" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmagesh242005&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=c084fc&labelColor=0d1117" alt="Public repos"/>
+<img src="https://img.shields.io/github/stars/magesh242005/Portfolio?label=Portfolio%20Stars&style=for-the-badge&color=eab308&labelColor=0d1117" alt="Portfolio stars"/>
+<img src="https://img.shields.io/github/last-commit/magesh242005/Portfolio?label=Last%20Commit&style=for-the-badge&color=22c55e&labelColor=0d1117" alt="Last commit"/>
+
 <img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
 <img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
 
