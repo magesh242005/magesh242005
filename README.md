@@ -204,20 +204,7 @@ class Magesh:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/magesh242005?label=Followers&style=for-the-badge&color=24c6dc&labelColor=0d1117" alt="Followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmagesh242005&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=c084fc&labelColor=0d1117" alt="Public repos"/>
-<img src="https://img.shields.io/github/stars/magesh242005/Portfolio?label=Portfolio%20Stars&style=for-the-badge&color=eab308&labelColor=0d1117" alt="Portfolio stars"/>
-<img src="https://img.shields.io/github/last-commit/magesh242005/Portfolio?label=Last%20Commit&style=for-the-badge&color=22c55e&labelColor=0d1117" alt="Last commit"/>
-
-<img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
-<img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
-
-<img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
-<img height="200" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
-
-</div>
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=magesh242005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magesh242005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/> <img src="https://streak-stats.demolab.com?user=magesh242005&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=magesh242005&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%"/> </div>
 
 ---
 
