@@ -202,11 +202,14 @@ class Magesh:
 
 ---
 
-## 🏙️ Contribution Graph in 3D
+## 📊 My Projects by Domain
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub contributions in 3D" width="100%"/>
-</div>
+```mermaid
+pie showData title Projects by domain
+    "Web Apps (Grand Solstice, DRAPE, Portfolio)" : 3
+    "AI & Blockchain (EventSphere, Synthetic Data, Certificate Verification)" : 3
+    "IoT & Safety (Alcohol Detection, Guardian SOS)" : 2
+```
 
 ---
 
