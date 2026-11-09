@@ -205,6 +205,19 @@ class Magesh:
 ## 📊 My Projects by Domain
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "pie1": "#c084fc",
+  "pie2": "#24c6dc",
+  "pie3": "#22c55e",
+  "pieStrokeColor": "#0f0c29",
+  "pieStrokeWidth": "2px",
+  "pieOuterStrokeColor": "#302b63",
+  "pieOuterStrokeWidth": "2px",
+  "pieSectionTextColor": "#ffffff",
+  "pieTitleTextColor": "#a78bfa",
+  "pieLegendTextColor": "#8b949e",
+  "pieOpacity": "0.95"
+}}}%%
 pie showData title Projects by domain
     "Web Apps (Grand Solstice, DRAPE, Portfolio)" : 3
     "AI & Blockchain (EventSphere, Synthetic Data, Certificate Verification)" : 3
