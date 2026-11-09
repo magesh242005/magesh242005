@@ -24,8 +24,6 @@
 ```python
 class Magesh:
     role      = "Full Stack Developer (Final Year CSE Student)"
-    college   = "IFET College of Engineering, 2023 - 2027"
-    location  = "Tamil Nadu, India 🇮🇳"
     languages = ["Python", "JavaScript", "TypeScript", "Java", "Solidity"]
     currently = "Building AI + Blockchain certificate verification"
     interests = ["Generative AI", "Blockchain", "DevOps", "3D Web (Three.js)"]
@@ -206,15 +204,15 @@ class Magesh:
 
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {
-  "pie1": "#c084fc",
-  "pie2": "#24c6dc",
-  "pie3": "#22c55e",
+  "pie1": "#f97316",
+  "pie2": "#0ea5e9",
+  "pie3": "#86efac",
   "pieStrokeColor": "#0f0c29",
   "pieStrokeWidth": "2px",
   "pieOuterStrokeColor": "#302b63",
   "pieOuterStrokeWidth": "2px",
-  "pieSectionTextColor": "#ffffff",
-  "pieTitleTextColor": "#a78bfa",
+  "pieSectionTextColor": "#0b1220",
+  "pieTitleTextColor": "#f97316",
   "pieLegendTextColor": "#8b949e",
   "pieOpacity": "0.95"
 }}}%%
