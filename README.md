@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://magesh-3d-portfolio.netlify.app/"><img src="https://img.shields.io/badge/🌐_3D_Portfolio-Visit-c084fc?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://magesh-3dportfolio-in.netlify.app/"><img src="https://img.shields.io/badge/🌐_3D_Portfolio-Visit-c084fc?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/magesh-r-2005r24"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mmagesh7940@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=magesh242005&label=Profile+Views&color=38bdf8&style=for-the-badge" alt="Profile views"/>
@@ -133,7 +133,7 @@ class Magesh:
       <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/><br/><br/>
-      <a href="https://magesh-3d-portfolio.netlify.app/">🔴 Live Demo</a> ·
+      <a href="https://magesh-3dportfolio-in.netlify.app/">🔴 Live Demo</a> ·
       <a href="https://github.com/magesh242005/Portfolio">📂 Source</a>
     </td>
   </tr>
@@ -144,7 +144,7 @@ class Magesh:
 ## 📱 Scan to View My Portfolio
 
 <div align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&ecc=H&margin=12&color=0f0c29&bgcolor=ffffff&data=https%3A%2F%2Fmagesh-3d-portfolio.netlify.app%2F" alt="Scan to view my 3D portfolio" width="220"/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&ecc=H&margin=12&color=0f0c29&bgcolor=ffffff&data=https%3A%2F%2Fmagesh-3dportfolio-in.netlify.app%2F" alt="Scan to view my 3D portfolio" width="220"/>
 </div>
 
 ---
